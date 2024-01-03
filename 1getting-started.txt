@@ -1,0 +1,8 @@
+compile the c file using
+$ gcc main.c 
+it will generate a.out file
+now run the a.out file using ./a.out
+if you want to give have a desire compiled file name then use
+$ gcc main.c -o compiled_file_name
+now run the compiled file using ./compiled_file_name
+
